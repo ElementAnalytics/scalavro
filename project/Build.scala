@@ -9,8 +9,8 @@ object Common {
   val PROJECT_NAME = "scalavro"
   val PROJECT_VERSION = "0.7.0-SNAPSHOT"
 
-  val SCALA_VERSION = "2.11.1"
-  val SCALA_XML_VERSION = "1.0.2"
+  val SCALA_VERSION = "2.11.8"
+  val SCALA_XML_VERSION = "1.0.6"
 
 //////////////////////////////////////////////////////////////////////////////
 // DEPENDENCY VERSIONS
@@ -19,8 +19,8 @@ object Common {
   val SPRAY_JSON_VERSION = "1.3.2"
   val AVRO_VERSION = "1.7.6"
   val SCALATEST_VERSION = "2.2.0"
-  val REFLECTIONS_VERSION = "0.9.9-RC1"
-  val TYPESAFE_CONFIG_VERSION = "1.0.2"
+  val REFLECTIONS_VERSION = "0.9.10"
+  val TYPESAFE_CONFIG_VERSION = "1.3.0"
   val SLF4J_VERSION   = "1.7.12"
   val SCALA_LOGGING_VERSION = "3.1.0"
 

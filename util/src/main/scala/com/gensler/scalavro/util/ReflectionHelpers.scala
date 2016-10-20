@@ -97,7 +97,7 @@ trait ReflectionHelpers extends LazyLogging {
     configBuilder filterInputsBy classFilter
     configBuilder setScanners new SubTypesScanner(false)
 
-    configBuilder.build
+    new Reflections(configBuilder)
   }
 
   /**
